@@ -11,11 +11,11 @@
 	<atom:link href="https://polo345.github.io/mywordpres/san-pham/aloe/feed/" rel="self" type="application/rss+xml" />
 	<link>https://polo345.github.io/mywordpres/san-pham/aloe/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 11 Oct 2022 07:52:02 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 18 Oct 2022 06:48:48 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
